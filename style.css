@@ -10,6 +10,9 @@ body {
   align-items: center;
   justify-content: center;
   font-family: 'Raleway', sans-serif;
+  overflow: hidden;
+  margin: 0;
+  height: 100vh;
 }
 
 .container {
