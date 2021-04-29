@@ -12,8 +12,7 @@ body {
   font-family: 'Raleway', sans-serif;
   overflow: hidden;
   margin: 0;
-  height: 99vh;
-  width:0;
+  height: 100vh;
 }
 
 .container {
